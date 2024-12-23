@@ -54,12 +54,11 @@ The **Financial Advisor Agent** analyzes your data and provides:
 
 
 ## 🔍 **Detailed Information**  
-Check out the notebooks for in-depth explanations and step-by-step instructions: 
-- 📒 Multi-Agent Budget Planner &nbsp;&nbsp;
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LS4EKO0G8M7bMHqhXKd4R_IkEubBOOUk?authuser=1)
+Check out the notebooks for in-depth explanations and step-by-step instructions:
 
-- 💬 Multi-Agent Budget Planner with Built-in Chatbot &nbsp;&nbsp;
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pw1NIj8AzjlUmy0hVL2nSR1VidMy-MG_?authuser=1#scrollTo=UzSZdG1cYkwh)
+| 📒 Multi-Agent Budget Planner | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LS4EKO0G8M7bMHqhXKd4R_IkEubBOOUk?authuser=1) |
+|:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| 💬 **Multi-Agent Budget Planner with Built-in Chatbot** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pw1NIj8AzjlUmy0hVL2nSR1VidMy-MG_?authuser=1#scrollTo=UzSZdG1cYkwh) |
 
 > **Note**: Each notebook contains detailed explanations and step-by-step instructions to help you get started.
 
