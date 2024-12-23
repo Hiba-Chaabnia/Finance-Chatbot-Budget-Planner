@@ -31,7 +31,7 @@ This version takes it up a notch!💬 The built-in chatbot simulates user intera
    - Retrieve your Gemini API key.  
    - Follow the instructions in the notebook to add the key securely as an environment variable.  
 
-3. **💬 Run the Notebook**:  
+3. **▶️ Run the Notebook**:  
    - Execute the notebook cells to initialize the agents.  
    - Let the chatbot simulate user input or provide your financial details manually. 
    - Watch the agents collaborate to generate your personalized budget and advice!
